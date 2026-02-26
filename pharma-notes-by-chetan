@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pharma Notes By Chetan</title>
+<style>
+body {
+font-family: Arial;
+background: #f4f4f4;
+text-align: center;
+margin: 0;
+padding: 0;
+}
+.header {
+background: #2c3e50;
+color: white;
+padding: 20px;
+}
+.container {
+margin: 40px;
+}
+.card {
+background: white;
+padding: 20px;
+margin: 20px auto;
+width: 300px;
+border-radius: 10px;
+box-shadow: 0px 0px 10px gray;
+}
+button {
+background: #27ae60;
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+button:hover {
+background: #219150;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+<h1>Pharma Notes By Chetan</h1>
+<p>B.Pharm | D.Pharm | Pharmacology Notes</p>
+</div>
+
+<div class="container">
+
+<div class="card">
+<h2>Pharmacology Notes</h2>
+<p>Complete Semester Notes</p>
+<p>Price: ₹99</p>
+<a href="PASTE_RAZORPAY_LINK_HERE">
+<button>Buy Now</button>
+</a>
+</div>
+
+<div class="card">
+<h2>MR Interview Notes</h2>
+<p>Interview Questions + Answers</p>
+<p>Price: ₹49</p>
+<a href="PASTE_RAZORPAY_LINK_HERE">
+<button>Buy Now</button>
+</a>
+</div>
+
+</div>
+
+</body>
+</html>
